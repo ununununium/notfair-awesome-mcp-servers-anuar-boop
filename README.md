@@ -66,6 +66,8 @@ IDE integrations, code analysis, debugging, and testing servers.
 - [Jupyter MCP](https://github.com/datalayer/jupyter-mcp-server) — Jupyter notebook execution, cell management, and kernel interaction.
 - [Nx MCP](https://github.com/nrwl/nx-mcp) — Nx monorepo tooling for project graph analysis, task running, and workspace management.
 - [Postman MCP](https://github.com/nicepkg/aide) — API testing and collection management through Postman.
+- [toprank](https://github.com/nowork-studio/toprank) — Open-source Claude Code plugin providing SEO & Google Ads skills: meta tag rewrites, schema markup, keyword bids, and CMS content pushes.
+
 
 ## Database & Data
 
