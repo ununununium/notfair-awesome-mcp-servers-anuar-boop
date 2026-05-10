@@ -66,6 +66,7 @@ IDE integrations, code analysis, debugging, and testing servers.
 - [Jupyter MCP](https://github.com/datalayer/jupyter-mcp-server) — Jupyter notebook execution, cell management, and kernel interaction.
 - [Nx MCP](https://github.com/nrwl/nx-mcp) — Nx monorepo tooling for project graph analysis, task running, and workspace management.
 - [Postman MCP](https://github.com/nicepkg/aide) — API testing and collection management through Postman.
+- [NotFair](https://notfair.co) - Google Ads MCP server. Connect Claude and AI agents to a Google Ads account: diagnose campaign performance, recommend optimizations, and execute approved changes via the Google Ads API. Source: github.com/nowork-studio/toprank. Free tier available.
 
 ## Database & Data
 
