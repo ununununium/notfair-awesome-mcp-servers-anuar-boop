@@ -146,6 +146,7 @@ Model management, vector stores, embedding tools, and AI service integrations.
 - [Weights & Biases MCP](https://github.com/wandb/mcp-server) — Experiment tracking, model registry, and artifact management through W&B.
 - [ChromaDB MCP](https://github.com/chroma-core/chroma-mcp) — ChromaDB vector database for embedding storage, similarity search, and RAG applications.
 - [MindsDB MCP](https://github.com/mindsdb/mindsdb) — AI data platform unifying databases with ML models for predictions and automation.
+- [NotFair](https://github.com/nowork-studio/NotFair) — Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 - [Replicate MCP](https://github.com/deepfates/mcp-replicate) — Run open-source ML models in the cloud via Replicate's inference platform.
 - [Cohere MCP](https://github.com/cohere-ai/mcp-server) — Cohere language models for embeddings, reranking, and retrieval-augmented generation.
 - [AgentOps MCP](https://github.com/AgentOps-AI/agentops-mcp) — AI agent observability with session tracking, cost monitoring, and debugging.
