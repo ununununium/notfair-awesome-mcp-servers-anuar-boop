@@ -122,18 +122,19 @@ Messaging platforms, email, calendar, and productivity tool integrations.
 
 Web scraping, search engines, and API integrations.
 
-- [Brave Search MCP](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/brave-search) — Web and local search using the Brave Search API with privacy focus.
-- [Firecrawl MCP](https://github.com/mendableai/firecrawl-mcp-server) — Web scraping and crawling with automatic content extraction and markdown conversion.
-- [Exa MCP](https://github.com/exa-labs/exa-mcp-server) — Neural search engine for finding semantically relevant web content and research.
-- [Tavily MCP](https://github.com/tavily-ai/tavily-mcp) — AI-optimized search API designed for LLM applications with fact-checking capabilities.
-- [Browserbase MCP](https://github.com/browserbase/mcp-server-browserbase) — Cloud browser automation for web scraping at scale with anti-detection.
-- [Crawl4AI MCP](https://github.com/unclecode/crawl4ai) — Open-source web crawling optimized for AI with LLM-friendly output formats.
 - [Algolia MCP](https://github.com/algolia/mcp-server) — Algolia search index management, queries, and analytics.
 - [Apify MCP](https://github.com/apify/mcp-server-apify) — Access to 3,000+ web scraping and automation actors on the Apify platform.
+- [Brave Search MCP](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/brave-search) — Web and local search using the Brave Search API with privacy focus.
+- [Browserbase MCP](https://github.com/browserbase/mcp-server-browserbase) — Cloud browser automation for web scraping at scale with anti-detection.
+- [Crawl4AI MCP](https://github.com/unclecode/crawl4ai) — Open-source web crawling optimized for AI with LLM-friendly output formats.
+- [Exa MCP](https://github.com/exa-labs/exa-mcp-server) — Neural search engine for finding semantically relevant web content and research.
+- [Firecrawl MCP](https://github.com/mendableai/firecrawl-mcp-server) — Web scraping and crawling with automatic content extraction and markdown conversion.
 - [Jina Reader MCP](https://github.com/jina-ai/reader-mcp) — Web page reading and content extraction using Jina AI's reader API.
-- [SerpAPI MCP](https://github.com/nicepkg/aide) — Google search results, knowledge graph, and SERP data via SerpAPI.
 - [Olostep MCP](https://github.com/olostep/olostep-mcp-server) — Web scraping and search API for structured data extraction from any website.
 - [Perplexity MCP](https://github.com/nicepkg/aide) — Perplexity AI search integration for research and question answering.
+- [SerpAPI MCP](https://github.com/nicepkg/aide) — Google search results, knowledge graph, and SERP data via SerpAPI.
+- [Tavily MCP](https://github.com/tavily-ai/tavily-mcp) — AI-optimized search API designed for LLM applications with fact-checking capabilities.
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Remote X MCP server for search, posting, monitoring, giveaways, and account analytics with API-key auth.
 
 ## AI & ML
 
