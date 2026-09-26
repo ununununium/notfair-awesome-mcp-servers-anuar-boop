@@ -134,6 +134,7 @@ Web scraping, search engines, and API integrations.
 - [SerpAPI MCP](https://github.com/nicepkg/aide) — Google search results, knowledge graph, and SERP data via SerpAPI.
 - [Olostep MCP](https://github.com/olostep/olostep-mcp-server) — Web scraping and search API for structured data extraction from any website.
 - [Perplexity MCP](https://github.com/nicepkg/aide) — Perplexity AI search integration for research and question answering.
+- [Statsnet MCP](https://github.com/usenetstate/statsnet-mcp) — Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp`.
 
 ## AI & ML
 
