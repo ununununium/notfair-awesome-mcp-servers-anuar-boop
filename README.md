@@ -22,6 +22,7 @@ MCP follows a client-server architecture where AI applications (clients) connect
 - [File & Storage](#file--storage)
 - [Monitoring & Observability](#monitoring--observability)
 - [Security](#security)
+- [Finance & Payments](#finance--payments)
 - [Frameworks & SDKs](#frameworks--sdks)
 - [Resources](#resources)
 
@@ -198,6 +199,10 @@ Secret management, authentication, vulnerability scanning, and compliance tools.
 - [Tines MCP](https://github.com/tines/mcp-server) — Tines security orchestration and automated response (SOAR) workflows.
 - [GitHub Security MCP](https://github.com/nicepkg/aide) — GitHub Advanced Security alerts, Dependabot, and code scanning results.
 - [OWASP ZAP MCP](https://github.com/nicepkg/aide) — OWASP ZAP dynamic application security testing and vulnerability reports.
+
+## Finance & Payments
+
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - MIT-licensed local CLI and stdio MCP for payment preparation, operation status and receipts on Apple Silicon macOS with Node.js 24.
 
 ## Frameworks & SDKs
 
